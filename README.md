@@ -1,4 +1,5 @@
 ## Hi there 👋
+用语代码保存和lean4学习
 
 <!--
 **griseoh135/griseoh135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
